@@ -1,2 +1,5 @@
-# LetsChessIt
-Its a voice assistant based chess game
+# Chess
+
+### Installation
+- `make install` : installs all necessary libraries
+- `make run` or `python chessMain.py` : runs the python code
